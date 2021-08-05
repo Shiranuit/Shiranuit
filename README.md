@@ -1,6 +1,11 @@
 ![Shiranuit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiranuit&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiranuit&layout=compact&langs_count=8)](https://github.com/Shiranuit/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuzzleio&repo=kuzzle)](https://github.com/kuzzleio/kuzzle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LycaniteGroup&repo=Lycanite)](https://github.com/LycaniteGroup/Lycanite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuzzleio&repo=sdk-javascript)](https://github.com/kuzzleio/sdk-javascript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuzzleio&repo=sdk-jvm)](https://github.com/kuzzleio/sdk-jvm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuzzleio&repo=sdk-dart)](https://github.com/kuzzleio/sdk-dart)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiranuit&repo=ECS)](https://github.com/Shiranuit/ECS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiranuit&repo=ByteBuffer)](https://github.com/Shiranuit/ByteBuffer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiranuit&repo=RType)](https://github.com/Shiranuit/RType)
