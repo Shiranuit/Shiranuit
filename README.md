@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiranuit&layout=compact&langs_count=10)](https://github.com/Shiranuit/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuzzleio&repo=kuzzle)](https://github.com/kuzzleio/kuzzle)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LycaniteGroup&repo=Lycanite)](https://github.com/LycaniteGroup/Lycanite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiranuit&repo=Lycanite)](https://github.com/LycaniteGroup/Lycanite)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuzzleio&repo=sdk-javascript)](https://github.com/kuzzleio/sdk-javascript)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shiranuit&repo=node-segfault-handler)](https://github.com/shiranuit/node-segfault-handler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuzzleio&repo=sdk-dart)](https://github.com/kuzzleio/sdk-dart)
